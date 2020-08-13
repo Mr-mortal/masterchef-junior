@@ -1,2 +1,1 @@
-# masterchef-junior
-here we will leran how to make a pizza
+Now let us know how to make a pizza Deliciously
